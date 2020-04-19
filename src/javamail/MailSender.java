@@ -12,7 +12,7 @@ public class MailSender {
         // this link : :https://myaccount.google.com/lesssecureapps
         
         //the argument for this method is the recipient address
-        JavaMail.sendMail("alichaabane98@gmail.com");
+        JavaMail.sendMail("********@gmail.com");
     }    
     
 }
